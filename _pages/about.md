@@ -46,7 +46,7 @@ My research interests mainly focus on 2D computer vision, including but not limi
     <a href="https://github.com/rorschach-xiao/CalcSheetPro">code</a><br />
     <br />
     <div>
-    Built tech stack based on Typescript, Node.js, React and Redis. To ensure real-time and low-lantency, communication between front-end and back-end was implemented via websocket.
+    Built a online classroom where students and teachers can chat and draw some sketches in real-time. The tech stack is based on Typescript, Node.js, React and Redis. To ensure real-time and low-lantency, communication between front-end and back-end was implemented via websocket.
     </div>
   </div>
   <div style="width: 25%;">
