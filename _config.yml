@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yang Xiao"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Yang Xiao"
-description              : &description "MSCS@Northeastern University| Image Generation | Computer Vision"
+description              : &description ""
 url                      : https://rorschach-xiao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rorschach-xiao/rorschach-xiao.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yang Xiao"
   avatar           : "profile_xy.jpg"
-  bio              : "MSCS@Northeastern University | Image Generation | Computer Vision"
+  bio              : "MSCS@NEU | TA@NEU | AIGC enthusiast, focusing on image generation, diffusion model and LLM."
   location         : "Brithish Columbia, Canada"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "xiao.yang3@northeastern.edu/xiaoyang-buaa@outlook.com"
+  email            : "xiao.yang3@northeastern.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

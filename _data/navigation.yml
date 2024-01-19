@@ -1,7 +1,26 @@
 # main links links
 main:
-  - title: "Portfolio"
-    url: /portfolio/
-         
+  - title: "About Me"
+    url: /#Short-Bio/
+  
+  - title: "Educations"
+    url: /#-educations
+
+  - title: "Teaching"
+    url: /#-teaching
+
+  - title: "Internships"
+    url: /#-internships
+
+  - title: "Projects"
+    url: /#-projects
+  
   - title: "CV"
-    url: /cv/
+    url: /files/Resume-v2.pdf
+
+  
+
+
+
+
+

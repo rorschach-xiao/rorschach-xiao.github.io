@@ -16,16 +16,6 @@ Education
 
 Work experience
 ======
-* Spring 2024: Teaching Assistant
-  * **Northeastern University**, Vancouver, Canada
-  * Course: Foundation of AI
-  * Supervisor: [Professor Richard Hoshino](https://www.richardhoshino.com)
-
-* Fall 2023: Teaching Assistant
-  * **Northeastern University**, Vancouver, Canada
-  * Course: Programing Desgin Paradigm
-  * Supervisor: [Professor Jack Thomas](https://drjackthomas.ca/)
-
 * May 2021 - Dec. 2022: Computer Vision Algorithm Engineer
   * **ZMO.AI Inc**, Shenzhen, China
   * Supervisors: Prof. [Ziwei Liu](https://liuziwei7.github.io/) and Dr. [Liqian Ma](https://charliememory.github.io/)
@@ -50,7 +40,7 @@ Work experience
   * Independently developed a same-source image retrieval algorithm based on existing image feature extraction and deeplearning technologies, winning 3rd place (Same-Source Image Retrieval Category) in China Artificial Intelligence Competition.
   * Conducted iterative development of a multi-attribute face recognition algorithm for smart homes through multi-task learning.
 
-* Sept. 2018 - Dec. 2018
+* Sept. 2018 - Dec. 2018: Deep Learning Algorithm Intern
   * **ZhenRobotics**, Beijing, China
   * Embedded a monocular camera-based target detection algorithm in ROS.
   * Developed an obstacle avoidance and bypass algorithm for robots against different categories of obstacles based on the category and location information of objects detected respectively by the monocular camera and LiDAR.
