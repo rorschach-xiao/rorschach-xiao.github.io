@@ -92,7 +92,7 @@ My research interests mainly focus on 2D computer vision, including but not limi
     <span style="font-weight: bold">Bachelor's thesis</span><br />
     <br />
     <div>
-    An Pytorch implementation of <a href='https://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w17/Pang_Cascade_Residual_Learning_ICCV_2017_paper.pdf'>CRL-Net</a> and disparity map denoising.
+    A Pytorch implementation of <a href='https://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w17/Pang_Cascade_Residual_Learning_ICCV_2017_paper.pdf'>CRL-Net</a> and disparity map denoising.
     </div>
   </div>
   <div style="width: 25%;">
