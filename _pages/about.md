@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # Short Bio
-Welcome to my personal webpage! My name is **Yang Xiao** (Chinese: 肖阳) and I'm currently a Master candidate of Computer Science at **Northeastern University** (Vancouver, Canada). Before that, I earned my B.E. degree(2019) from **Beihang University** (Beijing, China), supervised by Prof. [Junchen Wang](https://mrs.buaa.edu.cn/?page_id=18). I also have 4 years experience(including interships and full-time job) in AI industry.
+Welcome to my personal webpage! My name is **Yang Xiao** (Chinese: 肖阳) and I'm currently a Master's candidate of Computer Science at **Northeastern University** (Vancouver, Canada). Before that, I earned my B.E. degree(2019) from **Beihang University** (Beijing, China), supervised by Prof. [Junchen Wang](https://mrs.buaa.edu.cn/?page_id=18). I also have 4 years experience(including internships and full-time jobs) in AI industry.
 
 My research interests mainly focus on 2D computer vision, including but not limited to image classification/detection/segmentation, semi-supervised learning, contrastive learning, human image generation, diffusion model, etc. 
 
