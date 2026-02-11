@@ -31,6 +31,26 @@ My research interests mainly focus on 2D computer vision, including but not limi
   * Directions: Fire Prediction, Diffusion Model, Remote Sensing, etc.
   * Supervisor: [Professor Ryan Rad](https://www.khoury.northeastern.edu/home/rrad/)
 
+# 🎓 Publications
+
+## A Comparative Study between SLMs and LLMs in Customer Review Analysis
+<div style="display: flex;">
+  <div style="width: 75%;">
+    <span style="color: grey">Apr. 2024</span><br />
+    <span style="font-weight: bold">Master's capstone (Published in <i>Artificial Intelligence Review</i>)</span><br />
+    <a href="https://github.com/rorschach-xiao/CS7980-Capstone">code</a>
+    <a href="https://link.springer.com/epdf/10.1007/s10462-025-11308-5?sharing_token=e9ijr3vjgNmTHZzz6hOeu_e4RwlQNchNByi7wbcMAY4Zsb07NS6Bz2anhBBv2eKO8g1mesApQB5xm72tQNuQ1R3WGw63tkLSSiiq70KxV5DQbXTxYUqW9Js-sdDcxK4BSxkT-aQorGJWiDgiosOq2qypi2PgU8qgs31r1qoudfI%3D">paper</a><br />
+    <br />
+    <div>
+    Investigated and compared the performance and computational costs of SLMs as well as LLMs in two tasks, sentiment polarity classification and correlation analysis; Explored the potential of combining LLMs with SLMs in customer review analysis to achieve better results and lower costs than either technique alone.
+    </div>
+  </div>
+  <div style="width: 30%;">
+    <img src='images/Capstone-task1.png' width="100%">
+    <img src='images/Capstone-task2.png' width="100%">
+  </div>
+</div>
+
 # 📝 Teaching
 - Spring 2024: Teaching Assistant
   * **Northeastern University**, Vancouver, Canada
@@ -63,26 +83,6 @@ My research interests mainly focus on 2D computer vision, including but not limi
     <img src='images/pet-2.png' width="45%" style="float: left">
   </div>
 </div>
-
-
-## A Comparative Study between SLMs and LLMs in Customer Review Analysis
-<div style="display: flex;">
-  <div style="width: 75%;">
-    <span style="color: grey">Apr. 2024</span><br />
-    <span style="font-weight: bold">Master's capstone (Published in <i>Artificial Intelligence Review</i>)</span><br />
-    <a href="https://github.com/rorschach-xiao/CS7980-Capstone">code</a>
-    <a href="https://link.springer.com/epdf/10.1007/s10462-025-11308-5?sharing_token=e9ijr3vjgNmTHZzz6hOeu_e4RwlQNchNByi7wbcMAY4Zsb07NS6Bz2anhBBv2eKO8g1mesApQB5xm72tQNuQ1R3WGw63tkLSSiiq70KxV5DQbXTxYUqW9Js-sdDcxK4BSxkT-aQorGJWiDgiosOq2qypi2PgU8qgs31r1qoudfI%3D">paper</a><br />
-    <br />
-    <div>
-    Investigated and compared the performance and computational costs of SLMs as well as LLMs in two tasks, sentiment polarity classification and correlation analysis; Explored the potential of combining LLMs with SLMs in customer review analysis to achieve better results and lower costs than either technique alone.
-    </div>
-  </div>
-  <div style="width: 30%;">
-    <img src='images/Capstone-task1.png' width="100%">
-    <img src='images/Capstone-task2.png' width="100%">
-  </div>
-</div>
-
 
 ## Real-time Interactive Online-Classroom
 <div style="display: flex;">
