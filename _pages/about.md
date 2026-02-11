@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # Short Bio
-Welcome to my personal webpage! My name is **Yang Xiao** (Chinese: 肖阳). I am currently a **Researcher** at **TikTok**. Prior to that, I earned my Master's degree in Computer Science from **Northeastern University**, where I was supervised by **Ryan Red**. I also hold a Bachelor's degree from **Beihang University**.
+Welcome to my personal webpage! My name is **Yang Xiao** (Chinese: 肖阳). I am currently a **Researcher** at **TikTok**. Prior to that, I earned my Master's degree in Computer Science from **Northeastern University**, where I was supervised by **Ryan Rad**. I also hold a Bachelor's degree from **Beihang University**.
 
 My research interests mainly focus on 2D computer vision, including but not limited to image classification/detection/segmentation, semi-supervised learning, contrastive learning, human image generation, diffusion model, etc. 
 
@@ -29,7 +29,7 @@ My research interests mainly focus on 2D computer vision, including but not limi
 - *2024.04 - 2025*: Research Assistant
   * **Northeastern University**, Vancouver, Canada
   * Directions: Fire Prediction, Diffusion Model, Remote Sensing, etc.
-  * Supervisor: [Professor Ryan Red](https://www.khoury.northeastern.edu/home/rrad/)
+  * Supervisor: [Professor Ryan Rad](https://www.khoury.northeastern.edu/home/rrad/)
 
 # 📝 Teaching
 - Spring 2024: Teaching Assistant
