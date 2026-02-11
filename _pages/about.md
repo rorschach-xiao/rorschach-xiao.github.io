@@ -15,7 +15,7 @@ My research interests mainly focus on 2D computer vision, including but not limi
 
 
 # 📖 Educations
-- *2023.01 - 2025*, Master, Khoury College, Northeastern University
+- *2023.01 - 2024.08*, Master, Khoury College, Northeastern University
 - *2015.09 - 2019.07*, Undergraduate, ShenYuan Honors College, Beihang University
 
 # 💻 Experience
