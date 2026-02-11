@@ -30,7 +30,7 @@ My research interests mainly focus on 2D computer vision, including but not limi
 
 <div style="display: flex; align-items: flex-start; gap: 25px; margin-bottom: 2em;">
   <div style="flex: 2.5;">
-    1. **Yang Xiao**, Yunke Li, Shaoyujie Chen, Hayden Barker, and Ryan Rad. "A Comparative Study between SLMs and LLMs in Customer Review Analysis". *Artificial Intelligence Review*, 2025. [[Paper]](https://link.springer.com/epdf/10.1007/s10462-025-11308-5?sharing_token=e9ijr3vjgNmTHZzz6hOeu_e4RwlQNchNByi7wbcMAY4Zsb07NS6Bz2anhBBv2eKO8g1mesApQB5xm72tQNuQ1R3WGw63tkLSSiiq70KxV5DQbXTxYUqW9Js-sdDcxK4BSxkT-aQorGJWiDgiosOq2qypi2PgU8qgs31r1qoudfI%3D) [[Code]](https://github.com/rorschach-xiao/CS7980-Capstone)
+    1. **Yang Xiao**, Yunke Li, Shaoyujie Chen, Hayden Barker, and Ryan Rad. "A Comparative Study between SLMs and LLMs in Customer Review Analysis". *Artificial Intelligence Review*, 2025. <a href="https://link.springer.com/epdf/10.1007/s10462-025-11308-5?sharing_token=e9ijr3vjgNmTHZzz6hOeu_e4RwlQNchNByi7wbcMAY4Zsb07NS6Bz2anhBBv2eKO8g1mesApQB5xm72tQNuQ1R3WGw63tkLSSiiq70KxV5DQbXTxYUqW9Js-sdDcxK4BSxkT-aQorGJWiDgiosOq2qypi2PgU8qgs31r1qoudfI%3D">[Paper]</a> <a href="https://github.com/rorschach-xiao/CS7980-Capstone">[Code]</a>
     <ul style="margin-top: 10px;">
       <li>Investigated and compared the performance and computational costs of SLMs and LLMs in sentiment polarity classification and correlation analysis.</li>
     </ul>
