@@ -8,60 +8,51 @@ redirect_from:
   - /about.html
 ---
 
-# Short Bio
+## Short Bio
 Welcome to my personal webpage! My name is **Yang Xiao** (Chinese: 肖阳). I am currently a **Researcher** at **TikTok**. Prior to that, I earned my Master's degree in Computer Science from **Northeastern University**, where I was supervised by **Ryan Rad**. I also hold a Bachelor's degree from **Beihang University**.
 
 My research interests mainly focus on 2D computer vision, including but not limited to image classification/detection/segmentation, semi-supervised learning, contrastive learning, human image generation, diffusion model, etc. 
 
 
-# 📖 Educations
+## 📖 Educations
 - *2023.01 - 2024.08*, Master, Khoury College, Northeastern University
 - *2015.09 - 2019.07*, Undergraduate, ShenYuan Honors College, Beihang University
 
-# 💻 Experience
+## 💻 Experience
+
 - *2024.04 - now*, [TikTok](https://www.tiktok.com/), Vancouver, Canada
 - *2020.07 - 2021.05*, [DiDi](https://www.didiglobal.com/), Beijing, China
 - *2019.12 - 2020.07*, [4paradigm](https://www.4paradigm.com/), Beijing, China
 - *2019.06 - 2019.09*, [Haier Uhome](https://www.haier.com/business/smarthome/product/?spm=cn.business_smarthome_pc.header_qwzn_20210512.3), Beijing, China
 - *2018.09 - 2018.12*, [ZhenRobotics](http://zhenrobot.com/index_en.html), Beijing, China
 
+## 📚 Research
+- *2024.04 - 2025*: Research Assistant
+  * **Northeastern University**, Vancouver, Canada
+  * Directions: Fire Prediction, Diffusion Model, Remote Sensing, etc.
+  * Supervisor: [Professor Ryan Rad](https://www.khoury.northeastern.edu/home/rrad/)
 
-# 🎓 Publications
+## 🎓 Publications
 
-## A Comparative Study between SLMs and LLMs in Customer Review Analysis
-<div style="display: flex;">
-  <div style="width: 75%;">
-    <span style="color: grey">Apr. 2024</span><br />
-    <span style="font-weight: bold"><i>Artificial Intelligence Review</i></span><br />
-    <a href="https://github.com/rorschach-xiao/CS7980-Capstone">code</a>
-    <a href="https://link.springer.com/epdf/10.1007/s10462-025-11308-5?sharing_token=e9ijr3vjgNmTHZzz6hOeu_e4RwlQNchNByi7wbcMAY4Zsb07NS6Bz2anhBBv2eKO8g1mesApQB5xm72tQNuQ1R3WGw63tkLSSiiq70KxV5DQbXTxYUqW9Js-sdDcxK4BSxkT-aQorGJWiDgiosOq2qypi2PgU8qgs31r1qoudfI%3D">paper</a><br />
-    <br />
-    <div>
-    Investigated and compared the performance and computational costs of SLMs as well as LLMs in two tasks, sentiment polarity classification and correlation analysis; Explored the potential of combining LLMs with SLMs in customer review analysis to achieve better results and lower costs than either technique alone.
-    </div>
-  </div>
-  <div style="width: 30%;">
-    <img src='images/Capstone-task1.png' width="100%">
-    <img src='images/Capstone-task2.png' width="100%">
-  </div>
-</div>
+1. **Yang Xiao**. "A Comparative Study between SLMs and LLMs in Customer Review Analysis". *Artificial Intelligence Review*, 2025. [[Paper]](https://link.springer.com/epdf/10.1007/s10462-025-11308-5?sharing_token=e9ijr3vjgNmTHZzz6hOeu_e4RwlQNchNByi7wbcMAY4Zsb07NS6Bz2anhBBv2eKO8g1mesApQB5xm72tQNuQ1R3WGw63tkLSSiiq70KxV5DQbXTxYUqW9Js-sdDcxK4BSxkT-aQorGJWiDgiosOq2qypi2PgU8qgs31r1qoudfI%3D) [[Code]](https://github.com/rorschach-xiao/CS7980-Capstone)
+   * Investigated and compared the performance and computational costs of SLMs and LLMs in sentiment polarity classification and correlation analysis.
 
+## 📝 Teaching
 
-# 📝 Teaching
-- Spring 2024: Teaching Assistant
+- **Spring 2024: Teaching Assistant**
   * **Northeastern University**, Vancouver, Canada
   * Course: Foundation of AI
   * Supervisor: [Professor Richard Hoshino](https://www.richardhoshino.com)
 
-- Fall 2023: Teaching Assistant
+- **Fall 2023: Teaching Assistant**
   * **Northeastern University**, Vancouver, Canada
   * Course: Programing Desgin Paradigm
   * Supervisor: [Professor Jack Thomas](https://drjackthomas.ca/)
 
 
-# 🔧 Projects
+## 🔧 Projects
 
-## Pet Avatar Customized and Animated Generation via Diffusion Model
+### Pet Avatar Customized and Animated Generation via Diffusion Model
 <div style="display: flex;">
   <div style="width: 75%;">
     <span style="color: grey">Apr. 2024</span><br />
@@ -80,7 +71,7 @@ My research interests mainly focus on 2D computer vision, including but not limi
   </div>
 </div>
 
-## Real-time Interactive Online-Classroom
+### Real-time Interactive Online-Classroom
 <div style="display: flex;">
   <div style="width: 75%;">
     <span style="color: grey">Nov. 2023</span><br />
@@ -97,7 +88,7 @@ My research interests mainly focus on 2D computer vision, including but not limi
 </div>
 
 
-## Lane Segementation Challenge on [ApolloScape Benchmark](https://apolloscape.auto/leader_board.html)
+### Lane Segementation Challenge on [ApolloScape Benchmark](https://apolloscape.auto/leader_board.html)
 <div style="display: flex;">
   <div style="width: 75%;">
     <span style="color: grey">Dec. 2020</span><br />
@@ -112,7 +103,7 @@ My research interests mainly focus on 2D computer vision, including but not limi
   </div>
 </div>
 
-## Chinese Artificial [Intelligence Competition](https://ai.xm.gov.cn/competition/project-detail.html?id=9ee396fad04a4d2eb88118a30c0d4a5d&competeId=0c8ce75d26e840b1b9ffd10633d6a9bf)
+### Chinese Artificial [Intelligence Competition](https://ai.xm.gov.cn/competition/project-detail.html?id=9ee396fad04a4d2eb88118a30c0d4a5d&competeId=0c8ce75d26e840b1b9ffd10633d6a9bf)
 <div style="display: flex;">
   <div style="width: 75%;">
     <span style="color: grey">Aug. 2019</span><br />
@@ -127,7 +118,7 @@ My research interests mainly focus on 2D computer vision, including but not limi
   </div>
 </div>
 
-## 3D Reconstruction with an Two-stage Stereo Matching Approach
+### 3D Reconstruction with an Two-stage Stereo Matching Approach
 <div style="display: flex;">
   <div style="width: 75%;">
     <span style="color: grey">Jan. 2019</span><br />
