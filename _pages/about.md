@@ -9,16 +9,16 @@ redirect_from:
 ---
 
 # Short Bio
-Welcome to my personal webpage! My name is **Yang Xiao** (Chinese: 肖阳) and I'm currently a Master's candidate of Computer Science at **Northeastern University** (Vancouver, Canada) and also a intern at **TikTok**. Before that, I earned my B.E. degree(2019) from **Beihang University** (Beijing, China), supervised by Prof. [Junchen Wang](https://mrs.buaa.edu.cn/?page_id=18). I also have 4 years experience(including internships and full-time jobs) in AI industry.
+Welcome to my personal webpage! My name is **Yang Xiao** (Chinese: 肖阳). I am currently a **Researcher** at **TikTok**. Prior to that, I earned my Master's degree in Computer Science from **Northeastern University**, where I was supervised by **Ryan Red**. I also hold a Bachelor's degree from **Beihang University**.
 
 My research interests mainly focus on 2D computer vision, including but not limited to image classification/detection/segmentation, semi-supervised learning, contrastive learning, human image generation, diffusion model, etc. 
 
 
 # 📖 Educations
-- *2023.01 - now*, Master, Khoury College, Northeastern University
+- *2023.01 - 2025*, Master, Khoury College, Northeastern University
 - *2015.09 - 2019.07*, Undergraduate, ShenYuan Honors College, Beihang University
 
-# 💻 Internships
+# 💻 Experience
 - *2024.04 - now*, [TikTok](https://www.tiktok.com/), Vancouver, Canada
 - *2020.07 - 2021.05*, [DiDi](https://www.didiglobal.com/), Beijing, China
 - *2019.12 - 2020.07*, [4paradigm](https://www.4paradigm.com/), Beijing, China
@@ -26,10 +26,10 @@ My research interests mainly focus on 2D computer vision, including but not limi
 - *2018.09 - 2018.12*, [ZhenRobotics](http://zhenrobot.com/index_en.html), Beijing, China
 
 # 📚 Research
-- *2024.04 - now*: Research Assistant
+- *2024.04 - 2025*: Research Assistant
   * **Northeastern University**, Vancouver, Canada
   * Directions: Fire Prediction, Diffusion Model, Remote Sensing, etc.
-  * Supervisor: [Professor Ryan Rad](https://www.khoury.northeastern.edu/home/rrad/)
+  * Supervisor: [Professor Ryan Red](https://www.khoury.northeastern.edu/home/rrad/)
 
 # 📝 Teaching
 - Spring 2024: Teaching Assistant
